@@ -4,17 +4,37 @@
 header{
     background-color: skyblue;
     width: 100%;
-    height: 100px;
+    height: 150px;
     background-image: url(../img/pattern.png)
 }
+.pattern{
+    width: 100%;
+    height: 150px;
+}
 .logo{
-    width: 200px;
-    height: 90px;
-    text-align: left;
+    width: 150px;
+    height: 80px;
+}
+h1{
+    margin-top: 100px;
+}
+.scrittore{
+    color: grey;
+}
+.data{
+    margin-bottom: 20px;
+}
+#name{
+    color: blue;
+}
+.paragrafi{
+    margin-bottom: 20px;
 }
 table{
     width: 98%;
     border-spacing: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 thead{
     height: 10px;
@@ -28,4 +48,13 @@ tbody{
 }
 .lightblue-row{
     background-color: lightskyblue;
+}
+footer{
+    margin-top: 10px;
+}
+#pubblicità{
+    color: grey;
+}
+.monitor{
+    margin-top: 10px;
 }
